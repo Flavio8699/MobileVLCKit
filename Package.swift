@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://drive.flavio8699.synology.me/d/s/xObVIVNewTlxHhbZcMDsUqrYMoSsX4Wu/u9JX4jAlJIQJAiHvZNXLfffswynX5WPm-I7JgwbWYKAs",
+            url: "https://test-vlc.s3.eu-central-1.amazonaws.com/MobileVLCKit.xcframework.zip",
             checksum: "test"
         ),
     ]
