@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://drive.flavio8699.synology.me/d/s/xObVIVNewTlxHhbZcMDsUqrYMoSsX4Wu/u9JX4jAlJIQJAiHvZNXLfffswynX5WPm-I7JgwbWYKAs",
+            url: "https://drive.google.com/uc?export=download&id=109Y9qXOApCT5U9Zr-IBsF8F-0FO64u6Z",
             checksum: "32a644ffac74eb2d423c148509df7c2cbcfc311e085ad074632eed22826b456b"
         ),
     ]
